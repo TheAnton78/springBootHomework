@@ -1,0 +1,6 @@
+ru\netology\springboothomework\config\JavaConfig.class
+ru\netology\springboothomework\profiles\ProductionProfile.class
+ru\netology\springboothomework\controller\ProfileController.class
+ru\netology\springboothomework\profiles\SystemProfile.class
+ru\netology\springboothomework\SpringBootHomeworkApplication.class
+ru\netology\springboothomework\profiles\DevProfile.class
